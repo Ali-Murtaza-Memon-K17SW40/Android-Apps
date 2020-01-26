@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="action_help">مدد</string>
+    <string name="description">نوگٹ چینی یا شہد ، بھنے ہوئے گری دار میوے (بادام ، اخروٹ ، پستا ، ہیزلنٹ اور میکادیمیا گری دار میوے جیسے عام) ، انڈے کی سفید کوڑے اور کبھی کبھی کٹے ہوئے کینڈی والے پھل سے بنا کر مچھلیاں بناتا ہے۔ یہ کینڈی باروں اور چاکلیٹ کی ایک قسم میں استعمال ہوتا ہے۔</string>
+    <string name="help_text">اگر آپ کو مدد کی ضرورت ہو تو ، ہمارے سپورٹ ڈیپارٹمنٹ سے رابطہ کریں۔</string>
+    <string name="nougat">نوگٹ کینڈی پیکیج</string>
+    <string name="language">زبان</string>
+    <string name="enter_a_number">ایک نمبر درج کریں</string>
+    <string name="enter_number">ایک نمبر درج کریں</string>
+    <string name="expiration_date">میعاد ختم ہونے کی تاریخ:</string>
+    <string name="price_label">قیمت فی پیکیج:</string>
+    <string name="quantity_label">مقدار:</string>
+    <string name="total_to_pay">ادا کرنے کے لئے کل:</string>
+</resources>

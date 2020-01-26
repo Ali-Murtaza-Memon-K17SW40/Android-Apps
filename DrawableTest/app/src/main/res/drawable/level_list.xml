@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_battery_20_percent"
+        android:maxLevel="0"/>
+
+    <item android:drawable="@drawable/ic_battery_30_percent"
+        android:maxLevel="1"/>
+
+    <item android:drawable="@drawable/ic_battery_50_percent"
+        android:maxLevel="2"/>
+
+    <item android:drawable="@drawable/ic_battery_60_percent"
+        android:maxLevel="3"/>
+
+    <item android:drawable="@drawable/ic_battery_80_percent"
+        android:maxLevel="4"/>
+
+    <item android:drawable="@drawable/ic_battery_90_percent"
+        android:maxLevel="5"/>
+
+    <item android:drawable="@drawable/ic_battery_100_percent"
+        android:maxLevel="6"/>
+</level-list>
